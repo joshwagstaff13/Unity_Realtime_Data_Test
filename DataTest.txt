@@ -1,1 +1,2 @@
 Input Check
+This is to test the network update cycle
