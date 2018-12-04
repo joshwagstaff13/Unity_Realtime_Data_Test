@@ -1,3 +1,1 @@
-Split1,100,
-Split2,400,
-Split,Ter
+Split1,100,Split2,400,Split,Ter
